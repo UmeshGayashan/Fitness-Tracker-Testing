@@ -1,0 +1,9 @@
+01. Problem identification
+02. Bussiness Understanding
+03. Collecting Data
+04. Pre-Processing Data
+05. Analyzing Data
+06. Data Modelling
+07. Model Evaluation / Monitoring
+09. Model Traning
+10. Model Development
